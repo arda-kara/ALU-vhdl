@@ -29,7 +29,7 @@ This repository contains the VHDL code for a 4-bit Arithmetic Logic Unit (ALU). 
 Clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/arda-kara/ALU-vhdl]
+git clone https://github.com/arda-kara/ALU-vhdl
 ```
 
 ### Running the Simulation
@@ -43,9 +43,6 @@ git clone [https://github.com/arda-kara/ALU-vhdl]
 
 - Follow your FPGA board's specific guidelines for implementing VHDL code.
 
-## Documentation
-
-For a detailed explanation of each operation and the architecture of the ALU, please refer to the `docs` directory.
 
 ## Contributing
 
@@ -55,8 +52,5 @@ Contributions to this project are welcome. Please read `CONTRIBUTING.md` for det
 
 This project is licensed under the [LICENSE.md] - see the `LICENSE.md` file for details.
 
-## Acknowledgments
-
-- [Any mentors, professors, or peers who contributed to your learning]
-
+Arda Kara - ardakara1881@hotmail.com
 ---
